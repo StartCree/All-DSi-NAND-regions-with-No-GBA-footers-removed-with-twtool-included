@@ -1,0 +1,5 @@
+For NAND (de)crypting:
+.\twltool nandcrypt --cid "ENTER CID HERE" --consoleid "ENTER CONSOLE ID HERE" --in [File Name].bin --out [File Name].bin
+
+To get the NAND SHA1 value:
+Get-FileHash .\[File Name].bin -Algorithm SHA1

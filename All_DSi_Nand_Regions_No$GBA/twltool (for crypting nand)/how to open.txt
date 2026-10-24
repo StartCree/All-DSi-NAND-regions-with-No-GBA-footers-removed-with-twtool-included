@@ -1,0 +1,1 @@
+Right click on an empty space on the twltool folder and select "Open in terminal".
